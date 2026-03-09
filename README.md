@@ -24,7 +24,9 @@ Currently improving backend architecture, maintainability and system design.
 
 ### Languages
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=N1ckg4m3s&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=N1ckg4m3s&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="100%" />
+</p>
 
 ---
 
@@ -36,7 +38,7 @@ Currently improving backend architecture, maintainability and system design.
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1ckg4m3s&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1ckg4m3s&theme=tokyonight&hide=jupyter%20notebook" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ckg4m3s&theme=tokyonight&utcOffset=-3" height="160"/>
 </p>
 
