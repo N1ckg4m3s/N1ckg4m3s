@@ -32,12 +32,12 @@ Currently improving backend architecture, maintainability and system design.
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=N1ckg4m3s&theme=tokyonight&hide=issues&include_all_commits=true&rank_icon=percentile&cache_seconds=3600" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=N1ckg4m3s&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1ckg4m3s&theme=tokyonight&hide=jupyter%20notebook" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ckg4m3s&theme=tokyonight&utcOffset=-3" height="160"/>
 </p>
