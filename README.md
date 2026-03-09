@@ -25,7 +25,7 @@ Currently improving backend architecture, maintainability and system design.
 ### Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=N1ckg4m3s&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=N1ckg4m3s&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="100%" height='200px' />
 </p>
 
 ---
